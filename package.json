@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
-    "src"
+    "lib"
   ],
   "scripts": {
     "clean": "rimraf lib types",
